@@ -2,7 +2,7 @@ const config = {
   challenge: true,
   users: {
     // username: 'payed', you can add multiple users.
-    interstellar: 'notfree',
+    interstellar: 'niketech',
   },
 }
 export default config
